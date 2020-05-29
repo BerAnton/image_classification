@@ -1,0 +1,5 @@
+ResNet-50/__pycache__/
+ResNet-50/.pytest_cache/
+ResNet-50/ResNet50.h5
+ResNet-152/__pycache__/
+ResNet-152/ResNet152.h5
